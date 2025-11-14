@@ -6,13 +6,13 @@ html {
 
 @font-face {
   font-family: "police-titre";
-  src: url("/static/polices/police_titre/bbh_sans_hegarty.ttf")
+  src: url("bbh_sans_hegarty.ttf")
     format("truetype");
 }
 
 @font-face {
   font-family: "police-soustitre";
-  src: url("/static/polices/police_soustitre/dancing_script.ttf")
+  src: url("dancing_script.ttf")
     format("truetype");
   font-weight: bold;
   font-style: normal;
@@ -20,7 +20,7 @@ html {
 
 @font-face {
   font-family: "police-corps";
-  src: url("/static/polices/police_corps/playfair_display.ttf")
+  src: url("playfair_display.ttf")
     format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -151,7 +151,7 @@ nav {
   left: 0;
   width: 100%;
   height: 100vh;
-  background-image: url("images/cityscape-paris-sunlight-blue-sky-fra.jpg");
+  background-image: url("cityscape-paris-sunlight-blue-sky-fra.jpg");
   background-position: center top;
   background-size: cover;
   background-repeat: no-repeat;
@@ -167,7 +167,7 @@ nav {
   left: 0;
   width: 100%;
   height: 100vh;
-  background-image: url("images/aerial-view-paris-with-skyscrapers.jpg");
+  background-image: url("aerial-view-paris-with-skyscrapers.jpg");
   background-position: center top;
   background-size: cover;
   background-repeat: no-repeat;
@@ -183,7 +183,7 @@ nav {
   left: 0;
   width: 100%;
   height: 100vh;
-  background-image: url("images/Bouquinistes_seine2.jpg");
+  background-image: url("Bouquinistes_seine2.jpg");
   background-position: center top;
   background-size: cover;
   background-repeat: no-repeat;
